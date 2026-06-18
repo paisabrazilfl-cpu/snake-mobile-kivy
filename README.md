@@ -1,2 +1,1 @@
-# snake-mobile-kivy
-Mobile-ready Kivy Snake game
+Create a new project directory structure with `main.py`, a `kivy` assets folder (if needed), a `README.md` with run/build instructions, and a `buildozer.spec` file for Android packaging.
