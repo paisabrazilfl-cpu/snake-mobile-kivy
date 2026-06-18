@@ -1,0 +1,1 @@
+buildozer.spec file for Android packaging
