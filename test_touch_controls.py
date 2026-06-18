@@ -1,2 +1,1 @@
-import os
-os.system('python test_touch_controls.py')
+test_touch_controls.py (the test script to launch the built APK, simulate a touch input, and exit with code 0)
